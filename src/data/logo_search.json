@@ -1,0 +1,86 @@
+{
+    "topLinks": [
+        { "text": "🌍 Join Nomads.com" },
+        { "text": "👋 Log in" }
+    ],
+
+    "sections": [
+        {
+            "title": "GENERAL",
+            "columns": [
+                [
+                    { "text": "Frontpage", "img": "/images/play.png" },
+                    { "text": "❤️ Your favorites" }
+                ],
+                [
+                    { "text": "🌗 Dark mode" },
+                    { "text": "🚑 Nomad insurance" }
+                ]
+            ]
+        },
+        {
+            "title": "COMMUNITY",
+            "columns": [
+                [
+                    { "text": "❤️ Dating app" },
+                    { "text": "💬 Chat" },
+                    { "text": "💈 Host meetup", "badge": "new" }
+                ],
+                [
+                    { "text": "🤝 Friend finder" },
+                    { "text": "🌍 Members map" },
+                    { "text": "🍹 Attend meetup" }
+                ]
+            ]
+        },
+        {
+            "title": "TOOLS",
+            "columns": [
+                [
+                    { "text": "🥾 Explore" },
+                    { "text": "📷 Vote on photos" },
+                    { "text": "💸 FIRE calculator" },
+                    { "text": "💥 Fastest growing" },
+                    { "text": "🌿 State of remote work", "badge": "new" },
+                    { "text": "🕸 Network graph" },
+                    { "text": "🏆 Best place now" },
+                    { "text": "🔮 Random good place" }
+                ],
+                [
+                    { "text": "🎒 NomadGPT" },
+                    { "text": "🗓 Residence calendar" },
+                    { "text": "🌤 Climate finder" },
+                    { "text": "📊 Nomad stats", "badge": "new" },
+                    { "text": "📜 History of nomads", "badge": "new" },
+                    { "text": "🔌 Fastest internet" },
+                    { "text": "🔮 Random place" }
+                ]
+            ]
+        },
+        {
+            "title": "HELP",
+            "columns": [
+                [
+                    { "text": "💡 Ideas + bugs" },
+                    { "text": "🛍️ Merch" },
+                    { "text": "🧑‍💼 TOS & Privacy policy" }
+                ],
+                [
+                    { "text": "🚀 Changelog" },
+                    { "text": "🛟 FAQ & Help" }
+                ]
+            ]
+        },
+        {
+            "title": "OTHER PROJECTS",
+            "columns": [
+                [
+                    { "text": "🏨 Hotel List" }
+                ],
+                [
+                    { "text": "🛰 Remote jobs" }
+                ]
+            ]
+        }
+    ]
+}

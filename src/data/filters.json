@@ -1,0 +1,99 @@
+{
+  "filters": {
+    "what": {
+      "temperature": [
+        {
+          "label": "🍦 Cold now",
+          "tooltip": "Temperature < 20°C aka cold or freezing"
+        },
+        {
+          "label": "🌤 Mild now",
+          "tooltip": "Temperature < 20°C aka cold or freezing"
+        },
+        {
+          "label": "☀️ Warm now",
+          "tooltip": "Temperature < 20°C aka cold or freezing"
+        }
+      ],
+      "budget": [
+        "💵 <US$1K/mo",
+        "💵 <US$2K/mo",
+        "💰 <US$3K/mo"
+      ],
+      "attributes": [
+        "👮‍ Safe",
+        "📡 Fast internet",
+        "💨 Clean air now",
+        "👍 Liked by members",
+        "🔥 Popular now",
+        "📈 Growing in nomads",
+        "🏅 Top ranked",
+        "💎 Hidden gem",
+        "✨ You haven't been",
+        "✨ For you",
+        "🇰🇭 Near Cambodia"
+      ]
+    },
+
+    "where": {
+      "continents": [
+        "🌎 North America",
+        "💃 Latin America",
+        "🇪🇺 Europe",
+        "🌍 Africa",
+        "🕌 Middle East",
+        "⛩️ Asia",
+        "🏄 Oceania",
+        "🛰 Space"
+      ],
+      "regionSocial": [
+        "🇺🇸 United States",
+        "🏝 Caribbean",
+        "🇪🇺 European Union",
+        "🇪🇺 Not in Schengen",
+        "🤝 Easy to make friends",
+        "❤️ Great for dating"
+      ]
+    },
+
+    "when": {
+      "frequency": [
+        "☃️ In the winter",
+        "♻️ All year round"
+      ],
+      "months": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ]
+    },
+
+    "reviewMembers": [
+      {
+        "label": "🤩 Exceptional",
+        "rating": "4.75+"
+      },
+      {
+        "label": "😍 Very good",
+        "rating": "4.5+"
+      },
+      {
+        "label": "👍 Good",
+        "rating": "4+"
+      },
+      {
+        "label": "😐 Okay",
+        "rating": "3+"
+      }
+    ]
+  }
+}

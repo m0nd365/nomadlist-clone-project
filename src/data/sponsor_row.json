@@ -1,0 +1,10 @@
+[
+  { "image": "/images/nyt-wide.webp", "alt": "nyt-wide" },
+  { "image": "/images/ft.webp", "alt": "ft" },
+  { "image": "/images/bbc.webp", "alt": "bbc" },
+  { "image": "/images/cnn.webp", "alt": "cnn" },
+  { "image": "/images/usa-today.webp", "alt": "use-today" },
+  { "image": "/images/cnbc.webp", "alt": "cnbc" },
+  { "image": "/images/guardian.webp", "alt": "guardian" },
+  { "image": "/images/politico.webp", "alt": "politico" }
+]

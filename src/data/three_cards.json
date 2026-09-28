@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Nomads.com ranks destinations that are accommodating to digital nomads, based on factors like cost of living, internet speed and weather",
+        "image": "/images/newyorktimes.png",
+        "alt": "nyt-wide"
+    },
+    {
+        "title": "The rankings of Nomads.com's cities are constantly in flux (all the data is refreshed in real-time based on user input)",
+        "image": "/images/bbc.webp",
+        "alt": "nyt-wide"
+    },
+    {
+        "title": "Nomads.com is a Kayak-like aggregator for potential work destinations, ranking internet, price, and safety",
+        "image": "/images/techcrunch.png", 
+        "alt": "nyt-wide"
+    }
+]

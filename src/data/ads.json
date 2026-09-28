@@ -1,0 +1,131 @@
+[
+    {
+        "type": "ad-card",
+        "image": "/images/safetywing2021-c-scaled2.webp",
+        "text": "Global travel and health coverage for nomads, starting at $2/day",
+        "buttonText": "Get Insured"
+    },
+    {
+        "type": "meetup-list",
+        "header": "Next meetups (15/mo)",
+        "emoji": "🥥",
+        "items": [
+            {
+                "date": "Mon 9th Mar",
+                "city": "Barcelona",
+                "image": "/images/barcelona-spain.webp",
+                "rsvps": 1
+            },
+            {
+                "date": "Mon 9th Mar",
+                "city": "Barcelona",
+                "image": "/images/asuncion-paraguay.webp",
+                "rsvps": 3,
+                "avatars": ["/images/woman-company.webp", "/images/man-driving.webp"]
+            },
+            {
+                "date": "Sun 1st Mar",
+                "city": "Barcelona",
+                "image": "/images/barcelona-spain.webp",
+                "rsvps": 1
+            },
+            {
+                "date": "Mon 9th Mar",
+                "city": "Barcelona",
+                "image": "/images/asuncion-paraguay.webp",
+                "rsvps": 3,
+                "avatars": ["/images/woman-company.webp", "/images/man-driving.webp"]
+            },
+            {
+                "date": "Tue 24th Feb",
+                "city": "Asuncion",
+                "image": "/images/asuncion-paraguay.webp",
+                "rsvps": 1
+            }
+        ],
+        "buttonText": "See upcoming meetups"
+    },
+    {
+        "type": "featured-pick",
+        "badgeTop": "Today's pick",
+        "image": "/images/japen-door.webp",
+        "title": "Visit Least Racist Places in Japan",
+        "badgeBottom": "150x viewed"
+    },
+    {
+        "type": "member-icons",
+        "header": "Traveling now (14)",
+        "emoji": "🛩",
+        "icons": [
+            "/images/barcelona-spain.webp",
+            "/images/woman1.webp",
+            "/images/man2.webp",
+            "/images/man3.webp",
+            "/images/man4.webp",
+            "/images/man5.webp",
+            "/images/man6.webp",
+            "/images/man7.webp",
+            "/images/man8.webp",
+            "/images/man9.webp",
+            "/images/man10.webp",
+            "/images/man11.webp"
+        ]
+    },
+    {
+        "type": "member-icons",
+        "header": "New members (628/mo)",
+        "emoji": "👋",
+        "icons": [
+            "/images/barcelona-spain.webp",
+            "/images/man1.webp",
+            "/images/woman1.webp",
+            "/images/man2.webp",
+            "/images/man3.webp",
+            "/images/man4.webp",
+            "/images/man5.webp",
+            "/images/man6.webp",
+            "/images/man7.webp",
+            "/images/man8.webp",
+            "/images/man9.webp",
+            "/images/man10.webp",
+            "/images/man11.webp",
+            "/images/man12.webp",
+            "/images/view.webp",
+            "/images/man13.webp"
+        ]
+    },
+    {
+        "type": "suggestion-card",
+        "rank": 2,
+        "city": "Siem Reap",
+        "country": "Cambodia",
+        "image": "/images/siem-reap-cambodia.webp",
+        "badge": "Nomads.com suggestion",
+        "wifi": 9,
+        "temp": 32,
+        "feelsLike": 37,
+        "weatherIcon": "🌥",
+        "weatherEmoji": "🥵",
+        "price": 1201,
+        "ratings": {
+            "overall": "yellow",
+            "cost": "green",
+            "internet": "red1",
+            "liked": "green",
+            "safety": "yellow"
+        }
+    },
+    {
+        "type": "ad-card",
+        "image": "/images/book.avif",
+        "text": "Get legal residency in 🇪🇸 Spain or 🇵🇹 Portugal. Your one-stop-shop for all your moving needs.",
+        "buttonText": "Get residency"
+    },
+    {
+        "type": "telegram-join",
+        "header": "Traveling now (14)",
+        "emoji": "🛩",
+        "image": "/images/join-modal-telegram.png",
+        "buttonText": "Join the chat"
+    }
+]

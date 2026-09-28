@@ -1,0 +1,27 @@
+{
+    "adsPopup": {
+        "ratingInfo": {
+            "score": 9.0,
+            "reviews": 8355,
+            "stars": 5
+        },
+        "signupSection": {
+            "membershipStats": "40,085 members + 600 people joined this month",
+            "videoThumbnail": "/images/thumbnail.jpg",
+            "placeholder": "Type your email...",
+            "genders": ["Select your gender", "Male", "Female", "Others"],
+            "buttonText": "Join Nomads.com →"
+        },
+        "content": [
+            { "type": "benefit", "linkText": "Join a global community", "desc": "of remote workers living and traveling around the world", "image": "/images/join-modal-community.webp" },
+            { "type": "benefit", "linkText": "Get unlimited members-only access to cities in 195+ countries", "desc": "and research the best places to live, travel and work remotely to find yours", "image": "/images/join-modal-data.webp" },
+            { "type": "benefit", "linkText": "Get access to the paid Nomads.com Chat on Telegram", "desc": "and find your community on the road (15,000+ messages sent this month)", "image": "/images/join-modal-telegram.png" },
+            { "type": "benefit", "linkText": "Meet new and interesting people", "desc": "for dating or friends and get matched based on your interests", "image": "/images/join-modal-dating.webp" },
+            { "type": "benefit", "linkText": "Attend Nomads.com meetups in cities all over the world", "desc": "and make friends (195 meetups per year)", "image": "/images/join-modal-beer.webp" },
+            { "type": "testimonial", "user": "@gigigriffis", "avatar": "/images/red-woman.webp", "quote": "Just a quick fun note to let you know that you have another Nomads.com romance success story." },
+            { "type": "testimonial", "user": "@josh_works", "avatar": "/images/man-shirt.webp", "quote": "Starting this whole nomad thing felt 100x easier once I joined Nomads.com." },
+            { "type": "testimonial", "user": "@melissawashin", "avatar": "/images/woman-shorthair.webp", "quote": "Joining Nomads.com was the best decision I made to best inform and prepare myself!" }
+        ],
+        "footerText": "Nomads.com members work remotely at"
+    }
+}

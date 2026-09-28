@@ -1,0 +1,38 @@
+{
+    "communityInfo": {
+        "text": "#1 Nomad Community",
+        "stars": 5,
+        "since": "Since 2014",
+        "wing": "/images/laurel.svg"
+    },
+
+    "mainHeading": "🌍 Go nomad",
+    "subText": "Join a global community of remote workers living and traveling around the world",
+    "people": [
+        "/images/woman-model.webp",
+        "/images/woman3.webp",
+        "/images/man9.webp",
+        "/images/man1.webp",
+        "/images/woman7.webp",
+        "/images/woman1.webp",
+        "/images/man7.webp",
+        "/images/man10.webp",
+        "/images/man12.webp",
+        "/images/man14.webp",
+        "/images/man16.webp"
+    ],
+
+    "benefits": [
+        { "emoji": "🍹", "text": "Attend 280 meetups/year", "sub": "in 100+ cities" },
+        { "emoji": "❤️", "text": "Meet new people", "sub": "for dating and friends" },
+        { "emoji": "🧪", "text": "Research destinations", "sub": "and find your best place to live and work" },
+        { "emoji": "🌎", "text": "Keep track of your travels", "sub": "and record where you've been" },
+        { "emoji": "💬", "text": "Join Nomads.com chat", "sub": "and find your community on the road" }
+    ],
+
+    "source": "Nomads.com",
+    "action": "login_or_signup",
+    "metadata": {
+        "video_thumbnail": "/images/thumbnail.jpg"
+    }
+}

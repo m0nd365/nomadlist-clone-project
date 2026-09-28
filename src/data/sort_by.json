@@ -1,0 +1,12 @@
+{
+    "tooltip": "Sort results by any attribute you like",
+    "options": [
+        "Nomad Score",
+        "Cost",
+        "Internet",
+        "Safety",
+        "Air Quality",
+        "Fun",
+        "Nightlife"
+    ]
+}

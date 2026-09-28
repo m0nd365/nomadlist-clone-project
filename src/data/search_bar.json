@@ -1,0 +1,61 @@
+{
+    "columns": [
+        {
+            "items": [
+                { "text": "🍦 Cold now", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🌤 Mild now", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "☀️ Warm now", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "💵 <US$1K/mo", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "💸 <US$2K/mo", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "💰 <US$3K/mo", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "👮 Safe", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "📡 Fast internet", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "💨 Clean air now", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "👍 Liked by members", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🔥 Popular now", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "📈 Growing in nomads", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🏅 Top ranked", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "💎 Hidden gem", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "✨ You haven't been", "tooltip": "Temperature < 20°C aka cold or freezing" }
+            ]
+        },
+        {
+            "items": [
+                { "text": "✨ For you", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🇰🇭 Near Cambodia", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🌎 North America" },
+                { "text": "💃 Latin America" },
+                { "text": "🇪🇺 Europe" },
+                { "text": "🌍 Africa" },
+                { "text": "🕌 Middle East" },
+                { "text": "⛩️ Asia" },
+                { "text": "🏄 Oceania" },
+                { "text": "🛰 Space" },
+                { "text": "🇺🇸 United States" },
+                { "text": "🏝 Caribbean", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🇪🇺 European Union", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🇪🇺 Not in Schengen", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🤝 Easy to make friends", "tooltip": "Temperature < 20°C aka cold or freezing" }
+            ]
+        },
+        {
+            "items": [
+                { "text": "❤️ Great for dating", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "☃️ In the winter", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "♻️ All year round", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Jan", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Feb", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Mar", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Apr", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 May", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Jun", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Jul", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Aug", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Sep", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Oct", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Nov", "tooltip": "Temperature < 20°C aka cold or freezing" },
+                { "text": "🗓 Dec", "tooltip": "Temperature < 20°C aka cold or freezing" }
+            ]
+        }
+    ]
+}
